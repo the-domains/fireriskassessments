@@ -1,0 +1,28 @@
+name: FireRiskAssessments
+favicon: null
+layout_spectrum: 0.46954629267565906
+typography_spectrum: 0.9421465012710541
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8894221282098442
+  lightness: 0.4937752434052527
+  saturation: 0.9973820045124739
+  rhythmicContrast: 0.8158959681168199
+purpose: []
