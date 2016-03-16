@@ -1,4 +1,4 @@
-name: FireRiskAssessments
+name: Fire-Risk-Assessments
 favicon: null
 layout_spectrum: 0.46954629267565906
 typography_spectrum: 0.9421465012710541
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#ffffff'
+    - '#000000'
+    - '#adadad'
+    - '#6e6e6e'
+    - '#f3282d'
   brandStrength: 0.8894221282098442
   lightness: 0.4937752434052527
   saturation: 0.9973820045124739
